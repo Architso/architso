@@ -1,5 +1,2 @@
-### I'm Archi, I love writing code !
+### Hi! :wave: I am Archi!
 
-## Languages
-
-![Python](https://img.shields.io/badge/-Python-<COLOR>?style=for-the-badge&logo=python)
