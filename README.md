@@ -1,5 +1,5 @@
 ###   Hi! :wave: I am Archi!
-### :snake: Senior Python Developer
+### :snake: Python Developer
 ![logo](https://raw.githubusercontent.com/BaggerFast/BaggerFast/main/assets/github-snake.svg)
 ### I Can . . .
 - :information_source: Working with api
