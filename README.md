@@ -12,4 +12,3 @@
 ![HTML5](https://img.shields.io/badge/HTML-000000?style=for-the-badge&logo=HTML5&logoColor=FF4500)
 ![CSS](https://img.shields.io/badge/CSS-000000?style=for-the-badge&logo=CSS3&logoColor=66CDAA)
 ![SQL](https://img.shields.io/badge/SQLite-000000?style=for-the-badge&logo=SQLite&logoColor=66CDAA)
-![DISCORD API](https://img.shields.io/badge/discord.py-000000?style=for-the-badge&logo=Discord&logoColor=FFFF00)
